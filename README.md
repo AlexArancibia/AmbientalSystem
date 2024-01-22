@@ -8,4 +8,4 @@ Proyecto Completo: https://oshwlab.com/alexanderarancibia37/motoresss_copy_copy
 ![pcblayout](https://github.com/AlexArancibia/AmbientalSystem/assets/157350237/1d79ff28-30d8-4d46-a386-97af7d1d7fae)
 ## Software:
 Abrir CMD y ejecutar el siguiente comando:
-sh shell.sh
+```sh shell.sh```
