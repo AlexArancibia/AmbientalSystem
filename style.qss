@@ -1,0 +1,143 @@
+/*= Style for mainwindow START
+  ==================================================== */
+	#MainWindow {
+		background-color: #fff;
+	}
+/*= END
+  ==================================================== */
+
+/*= Style for button to change menu style START
+  ==================================================== */
+	#change_btn {
+		padding: 5px;
+		border: none;
+		width: 30px;
+		height: 30px;
+	}
+/*= END
+  ==================================================== */
+
+/*= Style for header widget START
+  ==================================================== */
+	#widget {
+		background-color: #f9fafd;
+	}
+/*= END
+  ==================================================== */
+
+/*= Style for menu with icon only START
+  ==================================================== */
+  	/* style for widget */
+	#icon_only_widget {
+		background-color: #092635;
+		width:50px;
+
+	}
+
+    /* style for QPushButton and QLabel */
+	#icon_only_widget QPushButton, QLabel {
+		height:50px;
+		border:none;
+		/* border-bottom: 1px solid #b0b0b0; */
+	}
+
+	#icon_only_widget QPushButton:hover {
+		background-color: rgba( 86, 101, 115, 0.5);
+	}
+
+	/* style for logo image */
+	#logo_label_1 {
+		padding: 5px
+	}
+/*= END
+  ==================================================== */
+
+/*= Style for menu with icon and text START
+  ==================================================== */
+	/* style for widget */
+	#full_menu_widget {
+		background-color: #092635;
+
+	}
+
+	/* style for QPushButton */
+	#full_menu_widget QPushButton {
+		border:none;
+		border-radius: 3px;
+		text-align: left;
+		padding: 0px 0 0px 15px;
+		color: #788596;
+	}
+
+	#full_menu_widget QPushButton:hover {
+		background-color: rgba( 86, 101, 115, 0.5);
+	}
+
+	#full_menu_widget QPushButton:checked {
+		color: #fff;
+		
+	}
+
+	/* style for logo image */
+	#logo_label_2 {
+		padding: 5px;
+		color: #fff;
+	}
+
+	/* style for APP title */
+	#logo_label_3 {
+		padding-right: 10px;
+		color: #fff;
+	}
+	#manual {
+		background-color: #1A48E1;
+		color: #000;
+	}
+	#automatico {
+		background-color: #aaaaaa;
+		color: #000;
+	}
+	#start {
+		background-color: #53b067;
+		color: #000;
+	}
+	#stop {
+		background-color: #bf3131;
+		color: #000;
+	}
+
+	#verticalLayout_6{
+		font-family: FreeSans;
+		font-size: 16px;
+	}
+	*{
+		font-family: FreeSans;
+		font-size: 15px;
+	}
+	QSlider::groove:horizontal {
+	    border-radius: 1px;
+	    height: 10px;
+	    margin: 0px;
+	    background-color: rgb(166, 166, 188);
+	}
+
+	QSlider::handle:horizontal {
+	    background-color: rgb(85, 170, 255);
+	    border: none;
+	    height: 20px;
+	    width: 30px;
+	    margin: -20px 0;
+	    border-radius: 5px;
+	    padding: -20px 0px;
+	}
+	QSlider::handle:horizontal:hover {
+	    background-color: rgb(155, 180, 255);
+	}
+	QSlider::handle:horizontal:pressed {
+	    background-color: rgb(65, 255, 195);
+	}
+ 
+/*= END
+  ==================================================== */
+
+

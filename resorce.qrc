@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/tempe.png</file>
+    <file>icons/temp.webp</file>
+    <file>icons/flow1.png</file>
+    <file>icons/humidity.png</file>
+    <file>icons/ambiental.png</file>
+    <file>icons/menuicon.png</file>
+    <file>icons/activity-feed-32.ico</file>
+    <file>icons/activity-feed-48.ico</file>
+    <file>icons/dashboard-5-32.ico</file>
+    <file>icons/dashboard-5-48.ico</file>
+    <file>icons/home-4-48.ico</file>
+    <file>icons/home-4-32.ico</file>
+  </qresource>
+</RCC>
